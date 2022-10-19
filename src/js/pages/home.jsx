@@ -1,8 +1,8 @@
 import React from "react";
-import { Card } from "./card.jsx";
-import { Jumbotron } from "./jumbotron.jsx";
-import { Navbar } from "./navbar.jsx";
-import {Footer} from "./footer.jsx";
+import { Card } from "../component/card.jsx";
+import { Jumbotron } from "../component/jumbotron.jsx";
+import { Navbar } from "../component/navbar.jsx";
+import {Footer} from "../component/footer.jsx";
 //create your first component
 
 
